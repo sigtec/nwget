@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+publish/
+artifacts/
+*.nupkg
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+# Test downloads of nwget
+*.part
+*.state
+*.state.tmp
+
+# Operating system
+Thumbs.db
+.DS_Store
